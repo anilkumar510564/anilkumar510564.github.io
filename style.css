@@ -1,0 +1,364 @@
+
+
+.home {
+background-color:white;
+background-image: url("images/home.jpg");
+background-position: center;
+
+
+
+}
+
+
+body {
+  background-image: url("images/new2.jpg");
+  background-position: center;
+}
+.ba {
+  background-image: url("images/new.jpg");
+  background-position: center;
+}
+
+.wa {
+  background-image: url("images/new3.jpg");
+  background-position: center;
+  
+}
+
+.za {
+  background-image: url("images/new3.jpg");
+  background-position: center;
+}
+
+
+
+
+.my {
+  width:100%;
+  height:60px;
+  background-color: red;
+  display: flex;
+  flex-wrap:wrap;
+  z-index:1000;
+
+}
+.my ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 15px;
+}
+.my ul li {
+  list-style: none;
+  line-height: 40px;
+
+}
+.my ul li:hover {
+  opacity: 0.5;
+  color: black;
+
+}
+
+.my ul li a {
+height: 100%;
+display:block;
+padding: 0px 80px;
+text-decoration: none;
+color: black;
+
+}
+.images {
+  width: 200px;
+  height: 200px;
+  border: 2px solid greenyellow;
+}
+.i {
+  height: 60px;
+  width: 100%;
+  background-color: red;
+  border: 2px solid black;
+}
+.i:hover {
+  opacity: 0.6;
+}
+video {
+  padding: 0px 20px;
+  width:300px;
+  height:300px;
+
+}
+.f {
+  height: 60px;
+  width: 100%;
+
+}
+.ss {
+  font-style: italic;
+  font-size: 30px;
+  color:navy;
+}
+.sw  {
+  font-style: italic;
+  font-size: 30px;
+  color: navy;
+
+}
+
+.qq {
+  font-style: italic;
+  font-size: 30px;
+  color: navy;
+
+}
+.yy {
+  font-style: italic;
+  font-size: 30px;
+  color: navy;
+}
+
+.rrr {
+  font-style: italic;
+  font-size: 30px;
+  color: navy;
+}
+.vvv {
+  font-style: italic;
+  font-size: 30px;
+  color: navy;
+}
+.ddd {
+  font-style: italic;
+  font-size: 30px;
+  color: navy;
+}
+.pp {
+  font-style: italic;
+  font-size: 30px;
+  color: navy;
+}
+.iiii {
+  font-style: italic;
+  font-size: 30px;
+  color: navy;
+}
+.oo {
+  font-style: italic;
+  font-size: 30px;
+  color: navy;
+}
+.to {
+  width: 400px;
+  height: 400px;
+  padding: 0 250px;
+
+}
+.ja {
+  font-style: italic;
+  font-size: 20px;
+  color: black;
+    padding: 0 250px;
+}
+.vi {
+  font-style: italic;
+  font-size: 40px;
+  color:darkred;
+  padding:10px 10px;
+  text-align: center;
+
+}
+#img1{
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+  
+}
+#img2 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img3 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img4 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img5 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img6 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img7 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img8 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img9 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img10 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img11 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img12 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img13 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img14 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img15 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img16 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img17 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img18 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img19 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img20 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+#img21 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+
+#img22 {
+  border:5px solid violet;
+  margin: 5px;
+
+  width: 400px;
+}
+.para {
+  font:bold;
+  font-size:30px;
+  color:black;
+  text-align: center;
+}
+.dix {
+  text-align: center;
+  display: block;
+}
+.to {
+  border:5px solid blue;
+  
+
+  margin: 10px;
+
+  padding: 0px 0px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+
+}
+#dss {
+  text-align: center;
+  display: block;
+
+}
+.gra {
+  font:bold;
+  font-size:30px;
+  color:black;
+  text-align: center;
+
+}
+.top {
+  
+  padding: 0px 0px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+
+
+}
+.ask {
+  
+  padding: 0px 0px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+
+
+}
+
+
+
+
